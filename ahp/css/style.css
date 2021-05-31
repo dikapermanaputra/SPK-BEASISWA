@@ -1,0 +1,36 @@
+body{
+	margin-top:10px;
+	margin-bottom:10px;
+	background:#e3e3e3;
+	background: url(../images/bg.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.container{
+	padding:30px;
+	background:#fff;
+	margin-top:1%;
+	margin-bottom:1%;
+	border-radius:5px;
+ }
+.hero{
+	background:#fcfcfd;
+}
+.navbar-inner {
+	background:#26555d;
+}
+
+.navbar-inner .nav li a:hover {
+	color:#000;
+	text-shadow:none;
+	font-weight:normal;
+}
+
+.active {
+	color:#000;
+	text-shadow:none;
+	font-weight:normal;
+}
+ 
